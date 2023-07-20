@@ -5,5 +5,3 @@ namePrefix: kustomize-
 resources:
 - deployment.yaml
 - namespace.yaml
-commonAnnotations:
-  channel: justmeandopensource
